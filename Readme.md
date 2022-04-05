@@ -6,7 +6,7 @@
 
 ##### Also, I'm only posting files with my implementations here and not files which are required but provided by the instructor. For instance, for the challenge projects of Section 13 (OOP) and Section 14 (operator overloading), there are different .cpp and .h files which are required to compile the projects. As mentioned, files provided by the instructor (Dr. Frank) are not provided here so please refer to the course material of each section to find these files. 
 
-##### Moreover, I've added comments in my code at the top when applicable to explain which files should be retrieved from the course folders to run each project, a brief description of each course file to give an idea of what they consist of to understand my solution and how to edit the original files whenever this is required to run my projects. 
+##### Moreover, I've added comments in my code at the top when applicable to explain which files should be retrieved from the course folders to run my project, a brief description of each course file to give an idea of what they consist of to understand my solution and how to edit the original files whenever this is required to run my challenge solution. 
 
 ##### I've also added comments to indicate important aspects of my solutions and, in the case of my .cpp files in the Section 13 and Section 14 folders, what pieces of code where made available by the instructor to implement some aspects in the files I'm sharing.  
 
