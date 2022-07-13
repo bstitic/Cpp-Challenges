@@ -32,4 +32,6 @@
 
 ###### 14. Section 14 (operator overloading): 2 challenge projects (there were two in this section, one which performed operator overloading using member methods and another which did the same using friend functions); please also refer to the course material for required files and modify them as indicated in my solution 
 
+###### 15. Section 15 (inheritance): challenge project (please refer to course website for reference solution and required files which were not shared here)
+
 ##### Link to the course: https://www.udemy.com/course/beginning-c-plus-plus-programming/ (highly recommended)
