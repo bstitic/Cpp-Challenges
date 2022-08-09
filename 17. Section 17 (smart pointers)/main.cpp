@@ -13,7 +13,7 @@ of make() as well as the return type of this function and the use of the -> oper
 #include <memory>
 #include <vector>
 
-//Function implementations
+// Function implementations
 // Function 1: create + return a unique_ptr to the vector of shared pointers to Test objects as explained
 // in the challenge description.
 std::unique_ptr<std::vector<std::shared_ptr<Test>>> make(){
@@ -22,6 +22,7 @@ std::unique_ptr<std::vector<std::shared_ptr<Test>>> make(){
     return ptr;
 }
 
+// Function 2: fill the vector with shared pointers to Test objects.
 void fill(std::vector<std::shared_ptr<Test>> &vec, int num) {
     int val;
     for(int i = 0; i < num; i++){
@@ -32,10 +33,11 @@ void fill(std::vector<std::shared_ptr<Test>> &vec, int num) {
     }
 }
 
+// Function 3: display the data of the Test objects.
 void display(const std::vector<std::shared_ptr<Test>>&vec){
     int j = 0;
     std::cout << "\n**** About to display available data ****" << std::endl; 
-    for(const auto &ptr: vec){ //try const, but can also work with auto (solution is with const)
+    for(const auto &ptr: vec){ //can also work with auto 
         std::cout << "Data of test object [" << j << "] : " << (*ptr).get_data() << std::endl;  
         j++;
     }
