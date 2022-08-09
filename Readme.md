@@ -34,6 +34,8 @@
 
 ###### 15. Section 15 (inheritance): challenge project (please refer to course website for reference solution and required files which were not shared here)
 
-###### 16. Section 16 (polymorphism): challenge project (please refer to the course website for reference solution and required files which were not shared here)
+###### 16. Section 16 (polymorphism): challenge project (please refer to course website for reference solution and required files which were not shared here)
+
+###### 17. Section 17 (smart pointers): challenge project (please refer to course website for reference solution and code to add in the main.cpp file posted here)
 
 ##### Link to the course: https://www.udemy.com/course/beginning-c-plus-plus-programming/ (highly recommended)
