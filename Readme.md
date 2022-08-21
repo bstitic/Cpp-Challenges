@@ -38,4 +38,6 @@
 
 ###### 17. Section 17 (smart pointers): challenge project (please refer to course website for reference solution and code to add in the main.cpp file posted here)
 
+###### 18. Section 18 (exception handling): challenge project (please refer to course website for reference solution and extra tests to add to the main.cpp file posted here)
+
 ##### Link to the course: https://www.udemy.com/course/beginning-c-plus-plus-programming/ (highly recommended)
