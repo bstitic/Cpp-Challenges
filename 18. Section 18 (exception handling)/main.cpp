@@ -7,7 +7,7 @@ Account.h, Account.cpp, Account_Util.h, Account_Util.cpp, Checking_Account.h, Ch
 Savings_Account.h, Savings_Account.cpp, Trust_Account.h and Trust_Account.cpp. 
 
 Regarding the exception classes that should be implemented for this challenge (IllegalBalanceException and InsufficientFundsException), 
-the file IllegalBalanceException.h is provided by the instructor. The changes to make are very straighforward based on the challenge
+the file IllegalBalanceException.h is provided by the instructor. The changes to make are very straightforward based on the challenge
 instructions. Once this class is ready, creating the second class is very simple.
 ***/
 
