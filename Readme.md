@@ -40,4 +40,6 @@
 
 ###### 18. Section 18 (exception handling): challenge project (please refer to course website for reference solution and extra tests to add to the main.cpp file posted here)
 
+###### 19. Section 19 (io and streams): 4 challenge projects (please refer to course website for reference solutions and required .txt files which were not posted here)
+
 ##### Link to the course: https://www.udemy.com/course/beginning-c-plus-plus-programming/ (highly recommended)
