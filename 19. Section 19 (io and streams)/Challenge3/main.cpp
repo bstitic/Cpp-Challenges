@@ -6,7 +6,7 @@ Please refer to the course website for the required .txt file (romeoandjuliet.tx
 #include <string>
 #include <fstream>
 
-using namespace std;
+using namespace std; //This was provided by the instructor.
 
 // Function for looking for the target substring in each word
 // Based on the following good reference (please see it):
