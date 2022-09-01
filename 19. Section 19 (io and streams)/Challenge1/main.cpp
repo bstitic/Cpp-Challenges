@@ -30,10 +30,10 @@ int main()
     std::cout << std::endl; //endl and \n -> next line, but std::endl flushes the output buffer (\n does not)
     std::cout << std::setw(66) << tours.title << "\n" << std::endl; 
     
-    std::cout << std::setw(28) << std::left << "Country" //33
+    std::cout << std::setw(28) << std::left << "Country" 
               << std::setw(15) << "City"
-              << std::setw(35) << std::right << "Population (M)" //32
-              << std::setw(25) << "Price" //22
+              << std::setw(35) << std::right << "Population (M)" 
+              << std::setw(25) << "Price" 
               <<  std::endl; //City, Population, Price
     
     std::cout << std::setw(103) << std::setfill('-') << "-" << std::endl; 
