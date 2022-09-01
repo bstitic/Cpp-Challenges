@@ -53,7 +53,7 @@ int main()
             // next: std::setprecision and std::fixed are persistent, but we'd like a different
             // configuration depending on whether it's cost or population data
             std::cout     << std::setw(15) << std::left << city.name 
-                          << std::setw(35) << std::right << std::setprecision(4) << std::fixed << population_millions(city.population) //30
+                          << std::setw(35) << std::right << std::setprecision(4) << std::fixed << population_millions(city.population)
                           << std::setw(25)  << std::setprecision(2) << std::fixed << city.cost 
                           << std::endl;
             j++; 
